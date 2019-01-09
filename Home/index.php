@@ -4,4 +4,4 @@ echo gethostname();
 
 ?>
 <br>
-<h1> Before Changes Windows </h1>
+<h1> After Changes Windows </h1>
